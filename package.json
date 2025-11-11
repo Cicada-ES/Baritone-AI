@@ -1,0 +1,14 @@
+{
+  "name": "baritone-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "Baritone.js",
+  "scripts": {
+    "start": "node Baritone.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.3",
+    "firebase-admin": "^13.6.0"
+  }
+}
